@@ -1,0 +1,23 @@
+{
+  "name": "jump",
+  "version": "1.0.0",
+  "description": "Next Generation SaaS Toolkit for Startups",
+  "repository": "git@github.com:jamoy/jump.git",
+  "author": "John Rocela <jmrocela@gmail.com>",
+  "bugs": "https://github.com/jamoy/jump/issues",
+  "license": "MIT",
+  "homepage": "https://jump.page",
+  "keywords": [
+    "saas-toolkit"
+  ],
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "eslint": "^7.6.0",
+    "husky": "^4.2.5",
+    "jest": "^26.2.2",
+    "lerna": "^3.22.1",
+    "prettier": "^2.0.5",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  }
+}

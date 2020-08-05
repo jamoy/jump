@@ -35,3 +35,10 @@ via docker
 ```
 $ docker run -p 4000:4000 jamoy/jump
 ```
+
+via npm
+
+```
+$ npm i --global jump
+$ jump start
+```

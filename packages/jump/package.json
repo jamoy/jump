@@ -1,5 +1,23 @@
 {
   "name": "jump",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.15.0",
+    "dotenv": "^8.2.0",
+    "fastify": "^3.1.1",
+    "fastify-openapi-glue": "^2.0.4",
+    "is": "^3.3.0",
+    "node-jose": "^1.1.4",
+    "pg": "^8.3.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.25",
+    "uuid": "^8.3.0",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  }
 }
